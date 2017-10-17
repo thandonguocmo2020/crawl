@@ -2043,7 +2043,7 @@ var nightmare = function nightmare(payload) {
         waitTimeout: 60000, // chờ tải trang
         gotoTimeout: 70000,
         loadTimeout: 80000,
-        show: true // show etronec
+        show: false // show etronec
     });
 
     // console.log("chay vao day roi");
